@@ -4,7 +4,12 @@ function Home() {
     return(
         <>
             <h1>Home</h1>
-            <Link to={"/sobre"}>Ir para Sobre</Link>
+            <Link to={"/Furia-da-Noite"}>Furia da Noite</Link>
+            <Link to={"/Pesadelo-Monstruoso"}>Pesadelo Monstruoso</Link>
+            <Link to={"/Nadder-Mortal"}>Nadder Mortal</Link>
+            <Link to={"/Estridente"}>Estridente</Link>
+            <Link to={"/Pula-Nuvens"}>Pula Nuvens</Link>
+
         </>
     )
 }
